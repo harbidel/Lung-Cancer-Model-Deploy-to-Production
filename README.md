@@ -1,7 +1,7 @@
 # Lung-Cancer-Model-Deploy-to-Live-Production
 Deploying Lung Cancer Machine Learning model to web Applications
 
-using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deploy a Python machine learning algorithm into a live, production environment
+Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deploy a Python machine learning algorithm into a live, production environment
 
 ## Steps
 * Step 1: Develop a Machine Learning Algorithm
