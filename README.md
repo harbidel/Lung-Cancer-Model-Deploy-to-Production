@@ -10,7 +10,7 @@ Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deplo
 * Step 4: Deploy the Web Service to Microsoft Azure
 * Step 5: Building a Client Application to Consume the Azure-deployed Web Service
 
-Attribute details: 
+## Attribute details: 
 1.	Gender: M(male), F(female) 
 2.	Age: Age of the patient 
 3.	Smoking: YES=2, NO=1. 
